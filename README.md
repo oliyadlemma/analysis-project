@@ -2,7 +2,7 @@
 
 ``` Name: Oliyad Lemma      Id: DBUR/0809/12 ```
 
-#Movie Dataset Analysis
+# Movie Dataset Analysis
 
 This repository contains an in-depth analysis of a  TMDb movie data(cleaned from original data on kaggle), exploring various aspects of film production and performance. 
 The dataset includes information about genres, release years, revenue, ratings, vote counts, and more.
