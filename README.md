@@ -4,7 +4,8 @@
 # Data Cleaning, Exploratory Analysis, and Question
 
 In this Python project, specific issues concerning a dataset including movie-related information are addressed, along with data cleansing and exploratory analysis.some of the Question stated below
-##Question
+
+## Question
 ```Q:What is the annual rate of production for each genre of movies?
 
 Q: Which genres are most popular, profitable, high rated, high vote count from year to year?
