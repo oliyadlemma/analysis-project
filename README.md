@@ -1,4 +1,4 @@
-## Big Data Individual Assignment
+# Big Data Individual Assignment
 
 ``` Name: Oliyad Lemma      Id: DBUR/0809/12 ```
 
@@ -9,7 +9,7 @@ The dataset includes information about genres, release years, revenue, ratings, 
 
 # Summary of Main Findings and Key Insights
 
-# Annual Film Production
+## Annual Film Production
 
 Dramatic Films: The most dramatic year is 2014.
 
@@ -33,7 +33,7 @@ Horror: 2015 was the most successful year for horror films.
 
 War Films: Notable years include 1968, 1989, and 2001.
 
-# Most Profitable, Rated, Voted, and Popular Movie Genres
+## Most Profitable, Rated, Voted, and Popular Movie Genres
 
 Most Profitable: Comedy is the most profitable, followed by Drama and Action. Documentary is the least profitable.
 
@@ -43,7 +43,7 @@ Most Voted: Drama receives the most votes, followed by Action and Comedy. TV Mov
 
 Most Popular: Drama, Comedy, and Action are the most popular genres. TV Movie and Documentary are the least popular.
 
-# Top 10 Highest Revenue Movies
+## Top 10 Highest Revenue Movies
 
 Avatar
 
@@ -65,7 +65,7 @@ The Exorcist
 
 E.T. the Extra-Terrestrial
 
-#Top 10 Highest Popular Movies
+## Top 10 Highest Popular Movies
 
 Jurassic World
 
@@ -87,7 +87,7 @@ Star Wars: The Force Awakens
 
 The Hunger Games: Mockingjay - Part 1
 
-#Top 10 Rated Movies
+## Top 10 Rated Movies
 
 The Jinx: The Life and Deaths of Robert Durst
 
@@ -109,7 +109,7 @@ The Dark Knight
 
 Kill Bill: The Whole Bloody Affair
 
- #Relationships and Insights
+ ## Relationships and Insights
  
 Popularity vs. Vote Count: The distribution is skewed left, indicating a positive relationship.
 
@@ -119,7 +119,7 @@ Runtime vs. Budget: No observable effect of long runtime on budget.
 
 Budget vs. Revenue: The distribution is skewed left, indicating a positive relationship.
 
- #Director Insights
+ ## Director Insights
 Most Prolific Directors:
 
 Steven Spielberg: 28 movies
@@ -142,9 +142,9 @@ Brian De Palma: 19 movies
 
 Wes Craven: 18 movies
 
- #Average Runtime
+ ## Average Runtime
  
 Movies in the dataset have an average runtime ranging between 100 and 150 minutes.
 
-#Conclusion
+## Conclusion
 This analysis provides valuable insights into the trends and patterns in the movie industry, including successful years for different genres, top-performing movies, and the influence of factors like runtime, budget, and director on a film's performance. These findings can be used to inform decision-making in film production and guide future projects
