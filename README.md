@@ -8,7 +8,15 @@ In this Python project, specific issues concerning a dataset including movie-rel
 ## Question
 ```
 Q:What is the annual rate of production for each genre of movies?
-Q: Which genres are most popular, profitable, high rated, high vote count from year to year?Q: What kinds of properties are associated with movies that have high revenues?Q:What kinds of properties are associated with the most popular movies?Q: What kinds of properties are associated with the highest rated movies?Q. What is the relation between popularity and vote_count?Q: What is the relation between the vote_count and vote_average(Rated)?Q:Is there a connection between runtime and budget?Q:Is there a connection between the total revenue and the total budget?Q: Most Popular Directors?Q:Average Runtime ?
+Q: Which genres are most popular, profitable, high rated, high vote count from year to year?
+Q: What kinds of properties are associated with movies that have high revenues?
+Q:What kinds of properties are associated with the most popular movies?
+Q: What kinds of properties are associated with the highest rated movies?
+Q. What is the relation between popularity and vote_count?
+Q: What is the relation between the vote_count and vote_average(Rated)?
+Q:Is there a connection between runtime and budget?
+Q:Is there a connection between the total revenue and the total budget?
+Q: Most Popular Directors?Q:Average Runtime ?
 ```
 
 
