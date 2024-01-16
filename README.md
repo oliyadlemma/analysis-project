@@ -1,12 +1,16 @@
 ## Big Data Individual Assignment
 
 ``` Name: Oliyad Lemma      Id: DBUR/0809/12 ```
+
 ##Movie Dataset Analysis
+
 This repository contains an in-depth analysis of a  TMDb movie data(cleaned from original data on kaggle), exploring various aspects of film production and performance. 
 The dataset includes information about genres, release years, revenue, ratings, vote counts, and more.
 
-##Summary of Main Findings and Key Insights
-#Annual Film Production
+#Summary of Main Findings and Key Insights
+
+##Annual Film Production
+
 Dramatic Films: The most dramatic year is 2014.
 Comedy Movies: 2013 saw the highest number of comedies.
 Romance Films: 1990 and 2013 stand out as the years with the most romance films.
