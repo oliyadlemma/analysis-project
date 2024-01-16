@@ -7,9 +7,9 @@
 This repository contains an in-depth analysis of a  TMDb movie data(cleaned from original data on kaggle), exploring various aspects of film production and performance. 
 The dataset includes information about genres, release years, revenue, ratings, vote counts, and more.
 
-#Summary of Main Findings and Key Insights
+# Summary of Main Findings and Key Insights
 
-##Annual Film Production
+## Annual Film Production
 
 Dramatic Films: The most dramatic year is 2014.
 
@@ -43,7 +43,7 @@ Most Voted: Drama receives the most votes, followed by Action and Comedy. TV Mov
 
 Most Popular: Drama, Comedy, and Action are the most popular genres. TV Movie and Documentary are the least popular.
 
-#Top 10 Highest Revenue Movies
+# Top 10 Highest Revenue Movies
 
 Avatar
 
