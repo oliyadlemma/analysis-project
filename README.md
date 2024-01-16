@@ -16,7 +16,8 @@ Q. What is the relation between popularity and vote_count?
 Q: What is the relation between the vote_count and vote_average(Rated)?
 Q:Is there a connection between runtime and budget?
 Q:Is there a connection between the total revenue and the total budget?
-Q: Most Popular Directors?Q:Average Runtime ?
+Q: Most Popular Directors?
+Q:Average Runtime ?
 ```
 
 
