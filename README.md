@@ -9,7 +9,7 @@ The dataset includes information about genres, release years, revenue, ratings, 
 
 # Summary of Main Findings and Key Insights
 
-## Annual Film Production
+# Annual Film Production
 
 Dramatic Films: The most dramatic year is 2014.
 
@@ -33,7 +33,7 @@ Horror: 2015 was the most successful year for horror films.
 
 War Films: Notable years include 1968, 1989, and 2001.
 
-#Most Profitable, Rated, Voted, and Popular Movie Genres
+# Most Profitable, Rated, Voted, and Popular Movie Genres
 
 Most Profitable: Comedy is the most profitable, followed by Drama and Action. Documentary is the least profitable.
 
