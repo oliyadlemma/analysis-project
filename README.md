@@ -1,4 +1,6 @@
 ## Big Data Individual Assignment
 
-``` lala I am using  I am using  I am using  I am using  I am using  ```
+``` Name: Oliyad Lemma
+Id: DBUR/0809/12
+  ```
 # I am using  
